@@ -37,5 +37,3 @@ This project provided hands-on experience in:
 * Component-based UI architecture
 * State management and dynamic UI updates
 * Implementing interactive chatbot features in a web app
-
-Just tell me — want a **professional GitHub README template version**?
